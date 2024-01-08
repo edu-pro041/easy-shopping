@@ -5,4 +5,5 @@
 <br>
 <img src="https://github.com/edu-pro041/easy-shopping/blob/main/Captura%20de%20tela%202024-01-08%20202231.png"/>
 <br>
+<img src="https://github.com/edu-pro041/easy-shopping/blob/main/Captura%20de%20tela%202024-01-08%20202535.png"/>
 
